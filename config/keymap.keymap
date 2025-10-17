@@ -66,9 +66,9 @@
 &kp LEFT_ALT
 &none
 &none
-&kp RIGHT
-&kp DOWN
 &kp LEFT
+&kp DOWN
+&kp RIGHT
 &none
 &none
 &none
@@ -121,7 +121,7 @@
 &kp NUMBER_1
 &kp NUMBER_2
 &kp NUMBER_3
-&mt RIGHT_ALT SLASH
+&mt SLASH
 &kp BACKSLASH
 &none
 &none
