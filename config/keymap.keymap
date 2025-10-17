@@ -42,7 +42,6 @@
 &lt 2 SPACE
 &lt 1 BACKSPACE
 &mt RIGHT_SHIFT CAPS
-&none
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp C_VOL_UP C_VOL_DN>;
@@ -69,7 +68,6 @@
 &kp LEFT
 &kp DOWN
 &kp RIGHT
-&none
 &none
 &none
 &none
@@ -128,7 +126,6 @@
 &none
 &none
 &none
-&none
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp C_VOL_UP C_VOL_DN>;
@@ -136,7 +133,6 @@
 
         layer_3 {
             bindings = <
-&none
 &none
 &none
 &none
